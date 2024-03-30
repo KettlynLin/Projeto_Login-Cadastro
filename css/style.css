@@ -1,0 +1,30 @@
+#img_cadastro{
+    width: 100%;
+    margin-top: 30%;
+}
+
+.row{
+    border-radius: 10px;
+    box-shadow: #b5b5b5 6px 6px 6px 6px;
+    margin: 5%;
+}
+
+.form-control{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    border-radius: 0px;
+   
+}
+
+h2{
+    font-weight: 900;
+}
+
+a{
+    color: gray;
+}
+
+.btn{
+    background-color: #6c63ff;
+    border-color: #6c63ff;
+}
